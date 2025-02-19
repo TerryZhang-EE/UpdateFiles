@@ -1,6 +1,6 @@
-// ½ø³ÌID:18836
-// Ä£¿éµØÖ·£º7FF6DEBE0000
-// µ±Ç°±±¾©Ê±¼ä£º2025Äê2ÔÂ19ÈÕ10Ê±7·Ö13Ãë
+// è¿›ç¨‹ID:18836
+// æ¨¡å—åœ°å€ï¼š7FF6DEBE0000
+// å½“å‰åŒ—äº¬æ—¶é—´ï¼š2025å¹´2æœˆ19æ—¥10æ—¶7åˆ†13ç§’
 // ---------------------------------------------
 namespace Offset
 {
@@ -176,7 +176,7 @@ constexpr uint64_t Alignment = 0x20;
 constexpr uint64_t Keys = 0x60;
 constexpr uint64_t Offsets = 0x0;
 constexpr uint64_t Visibility = 0xA1;
-constexpr uint64_t MapGrid = 0x498;
+constexpr uint64_t MapGrid = 0x4A8;
 constexpr uint64_t Gender = 0xA90;
 constexpr uint64_t WidgetStateMap = 0x540;
 constexpr uint64_t TrainingMapGrid = 0x5E0;
