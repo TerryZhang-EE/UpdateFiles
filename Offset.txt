@@ -184,3 +184,14 @@ constexpr uint64_t SPOOFCALL = 0x2333A55;
 constexpr uint64_t LineTraceSingle = 0xCE6CFB4;
 constexpr uint64_t HOOK = 0xFE33648;
 constexpr uint64_t HOOK_TWO = 0x333BE4;
+
+constexpr uint64_t VehicleCommonComponent = 0xC20;
+constexpr uint64_t   FloatingVehicleCommonComponent = 0x4E8;
+
+constexpr uint64_t VehicleFuel = 0x2D0;
+constexpr uint64_t VehicleFuelMax = 0x2D4;
+constexpr uint64_t VehicleHealth = 0x2C8;
+constexpr uint64_t VehicleHealthMax = 0x2CC;
+
+constexpr uint64_t Physx_sdk = 0xFD07848;
+constexpr uint64_t Unreal_Engine = 0x102D8AF0;
