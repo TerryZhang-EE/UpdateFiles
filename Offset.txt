@@ -193,5 +193,5 @@ constexpr uint64_t VehicleFuelMax = 0x2D4;
 constexpr uint64_t VehicleHealth = 0x2C8;
 constexpr uint64_t VehicleHealthMax = 0x2CC;
 
-constexpr uint64_t Physx_sdk = 0xFD07848;
+constexpr uint64_t PhysxSDK = 0xFD07848;
 constexpr uint64_t Unreal_Engine = 0x102D8AF0;
