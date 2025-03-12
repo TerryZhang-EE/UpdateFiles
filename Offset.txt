@@ -109,7 +109,7 @@ constexpr uint64_t Keys = 0x60;
 constexpr uint64_t AttachedStaticComponentMap = 0x13C0;
 
 constexpr uint64_t WeaponConfig_WeaponClass = 0x53C;
-constexpr uint64_t ElapsedCookingTime = 0xB10;
+constexpr uint64_t ElapsedCookingTime = 0xBF8;
 
 constexpr uint64_t PlayerInput = 0x550;
 constexpr uint64_t InputAxisProperties = 0x130;
@@ -161,7 +161,9 @@ constexpr uint64_t StaticRelativeRotation = 0x3C;
 constexpr uint64_t StaticRelativeScale = 0x48;
 
 constexpr uint64_t InputYawScale = 0x654;
+
 constexpr uint64_t AimOffsets = 0x1B08;
+
 constexpr uint64_t AntiCheatCharacterSyncManager = 0xCD0;
 
 constexpr uint64_t TimeSeconds = 0x10C;
