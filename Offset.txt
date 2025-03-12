@@ -161,9 +161,7 @@ constexpr uint64_t StaticRelativeRotation = 0x3C;
 constexpr uint64_t StaticRelativeScale = 0x48;
 
 constexpr uint64_t InputYawScale = 0x654;
-
 constexpr uint64_t AimOffsets = 0x1B08;
-
 constexpr uint64_t AntiCheatCharacterSyncManager = 0xCD0;
 
 constexpr uint64_t TimeSeconds = 0x10C;
@@ -190,3 +188,10 @@ constexpr uint64_t VehicleFuel = 0x2D0;
 constexpr uint64_t VehicleFuelMax = 0x2D4;
 constexpr uint64_t VehicleHealth = 0x2C8;
 constexpr uint64_t VehicleHealthMax = 0x2CC;
+
+constexpr uint64_t FloatingVehicleCommonComponent = 0x4D0;
+constexpr uint64_t Gender = 0xA98;
+constexpr uint64_t SPOOFCALL = 0x23FE845;
+constexpr uint64_t LineTraceSingle = 0xCD287E0;
+constexpr uint64_t HOOK = 0xFD106C0;
+constexpr uint64_t HOOK_TWO = 0x22AFF3;
