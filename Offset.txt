@@ -111,9 +111,8 @@ constexpr uint64_t Mesh3P = 0x7F0;
 constexpr uint64_t Keys = 0x60;
 constexpr uint64_t AttachedStaticComponentMap = 0x300;
 constexpr uint64_t WeaponConfig_WeaponClass = 0x54C;
-constexpr uint64_t ElapsedCookingTime = 0x3;
-
-
+constexpr uint64_t ElapsedCookingTime_Old = 0x3;
+constexpr uint64_t ElapsedCookingTime = 0x140;
 constexpr uint64_t PlayerInput = 0x558;
 constexpr uint64_t InputAxisProperties = 0x138;
 
@@ -172,7 +171,7 @@ constexpr uint64_t AntiCheatCharacterSyncManager = 0x1080;
 constexpr uint64_t TimeSeconds = 0x90;
 constexpr uint64_t TimeTillExplosion = 0x7DC;
 constexpr uint64_t ExplodeState = 0x560;
-constexpr uint64_t TrainingMapGrid = 0x5E0;
+constexpr uint64_t TrainingMapGrid = 0x5E8;
 constexpr uint64_t MapGrid_Map = 0x4B0;
 constexpr uint64_t MouseX = 0x4268;
 constexpr uint64_t MouseY = 0x4269;
