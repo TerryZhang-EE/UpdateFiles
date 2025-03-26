@@ -186,13 +186,11 @@ constexpr uint64_t mPhysXScene = 0xD0;
 constexpr uint64_t rigid_dynamics_count = 0x2620;
 constexpr uint64_t rigid_dynamics = 0x2618;
 
-
 constexpr uint64_t InventoryFacade = 0x1E10;
 constexpr uint64_t Inventory = 0x408;
 constexpr uint64_t InventoryItems = 0x5A0;
 constexpr uint64_t InventoryItemCount = 0x5A8;
 constexpr uint64_t InventoryItemTagItemCount  = 0x38;
-
 
 constexpr uint64_t VehicleCommonComponent = 0xC20;
 constexpr uint64_t FloatingVehicleCommonComponent = 0x4E8;
@@ -201,4 +199,5 @@ constexpr uint64_t VehicleFuelMax = 0x2D4;
 constexpr uint64_t VehicleHealth = 0x2C8;
 constexpr uint64_t VehicleHealthMax = 0x2CC;
 
+constexpr uint64_t PhysxSDK = 0xFE20908;
 
