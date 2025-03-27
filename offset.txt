@@ -27,6 +27,11 @@ constexpr uint64_t CameraCacheLocation = 0x1734;
 constexpr uint64_t CameraCacheRotation = 0x1CCC;
 constexpr uint64_t CameraCacheFOV = 0x1720;
 
+constexpr uint64_t SafetyZonePosition = 0x28;
+constexpr uint64_t SafetyZoneRadius = 0x34;
+constexpr uint64_t BlueZoneRadius = 0x44;
+constexpr uint64_t BlueZonePosition = 0x38;
+
 constexpr uint64_t LastTeamNum = 0x1518;
 constexpr uint64_t TeamNumber = 0x980;
 
