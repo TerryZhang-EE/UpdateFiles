@@ -172,7 +172,7 @@ constexpr uint64_t AntiCheatCharacterSyncManager = 0x888;
 
 constexpr uint64_t TimeSeconds = 0x920;
 constexpr uint64_t TimeTillExplosion = 0x7FC;
-constexpr uint64_t ExplodeState = 0x580;
+constexpr uint64_t ExplodeState = 0x610;
 constexpr uint64_t TrainingMapGrid = 0x5E0;
 
 constexpr uint64_t MapGrid_Map = 0x4A8;
