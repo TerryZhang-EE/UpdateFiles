@@ -115,7 +115,7 @@ constexpr uint64_t Keys = 0x60;
 constexpr uint64_t AttachedStaticComponentMap = 0x13A0;
 
 constexpr uint64_t WeaponConfig_WeaponClass = 0x538;
-constexpr uint64_t ElapsedCookingTime = 0xCF0;
+constexpr uint64_t ElapsedCookingTime = 0xC1C;
 
 constexpr uint64_t PlayerInput = 0x548;
 constexpr uint64_t InputAxisProperties = 0x130;
