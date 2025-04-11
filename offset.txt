@@ -51,10 +51,6 @@ constexpr uint64_t Slot = 0x30;
 constexpr uint64_t WidgetStateMap = 0x548;
 
 constexpr uint64_t FeatureRepObject = 0xD98;
-constexpr uint64_t SafetyZonePosition = 0xAC;
-constexpr uint64_t SafetyZoneRadius = 0xA0;
-constexpr uint64_t BlueZoneRadius = 0xC8;
-constexpr uint64_t BlueZonePosition = 0xBC;
 constexpr uint64_t NumAliveTeams = 0x474;
 
 constexpr uint64_t HeaFlag = 0x3CA;
@@ -209,4 +205,7 @@ constexpr uint64_t VehicleHealth = 0x2C8;
 constexpr uint64_t InventoryItemTagItemCount = 0x38;
 constexpr uint64_t VehicleHealthMax = 0x2CC;
 
-
+constexpr uint64_t SafetyZonePosition = 0x28;
+constexpr uint64_t SafetyZoneRadius = 0x34;
+constexpr uint64_t BlueZoneRadius = 0x44;
+constexpr uint64_t BlueZonePosition = 0x38;
